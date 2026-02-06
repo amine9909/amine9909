@@ -6,6 +6,9 @@
   <a href="https://github.com/amine9909"><img src="https://img.shields.io/badge/GitHub-aminesebti-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
 ---
 
 
